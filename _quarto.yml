@@ -1,0 +1,34 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Maisha Munawara"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: resume.qmd
+        text: Experience & Education
+      - href: projects.qmd
+        text: Projects
+      - href: skills.qmd
+        text: Skills & Certifications
+      - href: leadership.qmd
+        text: Leadership
+      - href: contact.qmd
+        text: Contact
+    right:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/maisha-munawara-597517b1
+      - icon: envelope
+        href: mailto:maishamunawarahridy@gmail.com
+
+format:
+  html:
+    theme: flatly
+    toc: false
+    css: styles.css
+    page-layout: full
+
+editor: visual

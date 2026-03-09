@@ -1,0 +1,70 @@
+---
+title: "Experience & Education"
+---
+
+This section summarizes my professional experience and academic background across fintech, healthcare, customer service, and digital operations.
+
+## Professional Experience
+
+::: {.card-box}
+
+### Customer Service Associate  
+**Intercruises Shoreside & Port Services** — Vancouver, BC  
+Apr 2025 – Present
+
+* Verified travel documentation and assisted international cruise guests to ensure smooth embarkation operations.
+* Handled high-volume passenger inquiries while maintaining efficiency in time-sensitive port environments.
+* Developed strong situational awareness and customer communication skills in fast-paced operational settings.
+
+:::
+
+::: {.card-box}
+
+### Medical Documentation Specialist  
+**Augmedix Inc.** — Dhaka, Bangladesh  
+Dec 2022 – May 2024
+
+* Supported U.S. physicians by updating electronic health records in real time, improving clinical workflow efficiency by approximately **25%**.
+* Maintained **90%+ documentation accuracy** while typing **75+ WPM** during live patient encounters.
+* Ensured accuracy, timeliness, and compliance in clinical documentation workflows.
+
+:::
+
+::: {.card-box}
+
+### Team Coordinator – Digital Service  
+**bKash Ltd. (Fintech)** — Dhaka, Bangladesh  
+Jun 2020 – Dec 2022
+
+* Led a digital service team of **35 members**, reducing response time by **25%** and improving service efficiency.
+* Collaborated with cross-functional teams to improve mobile app UI, contributing to a **30% increase in user engagement**.
+* Conducted KPI-driven training sessions and exceeded service targets by **20%**.
+* Recognized with **three “Employee of the Month” awards** for leadership and performance excellence.
+
+:::
+
+---
+
+## Education
+
+::: {.edu-item}
+### Master of Business Administration (MBA), Business Analytics
+**University Canada West** — Vancouver, BC, Canada  
+2024 – 2026
+
+Relevant focus: Business analytics, digital operations, and data-driven decision making.
+:::
+
+::: {.edu-item}
+### Bachelor of Science in Computer Science
+**BRAC University** — Dhaka, Bangladesh  
+2014 – 2020
+:::
+
+---
+
+## Resume
+
+You can download a full version of my professional resume below.
+
+[Download Resume](maisha_resume.pdf){.btn-primary}

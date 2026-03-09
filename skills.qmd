@@ -1,0 +1,71 @@
+---
+title: "Skills & Certifications"
+---
+
+This section summarizes the key business, technical, and professional skills developed through my academic training and professional experience in fintech, healthcare documentation, and digital service operations.
+
+---
+
+## Business Skills
+
+- Process improvement and operational analysis  
+- KPI monitoring and performance evaluation  
+- Customer experience optimization  
+- Business problem structuring  
+- Data-informed decision making  
+- Cross-functional collaboration  
+
+---
+
+## Technical Skills
+
+### Analytics & Data Tools
+
+::: {.skill-tags}
+<span class="skill-tag">Excel</span>
+<span class="skill-tag">Tableau</span>
+<span class="skill-tag">Google Colab</span>
+<span class="skill-tag">Data Analysis</span>
+:::
+
+### Programming
+
+::: {.skill-tags}
+<span class="skill-tag">Python</span>
+<span class="skill-tag">Java</span>
+<span class="skill-tag">HTML</span>
+:::
+
+### Systems & Platforms
+
+::: {.skill-tags}
+<span class="skill-tag">CRM Systems</span>
+<span class="skill-tag">Helpdesk Platforms</span>
+<span class="skill-tag">Electronic Health Records (EHR)</span>
+:::
+
+### Cloud Fundamentals
+
+::: {.skill-tags}
+<span class="skill-tag">AWS Cloud Concepts</span>
+:::
+
+---
+
+## Leadership & Communication
+
+- Team coordination and operational supervision  
+- Stakeholder communication and relationship management  
+- Training support and knowledge sharing  
+- Professional written and verbal communication  
+- Problem-solving in fast-paced operational environments  
+
+---
+
+## Certifications
+
+- **Certified Digital Marketing Associate**  
+  Digital Marketing Institute — Issued June 2025  
+
+- **AWS Academy Graduate – Cloud Foundations**  
+  Amazon Web Services — Issued December 2025

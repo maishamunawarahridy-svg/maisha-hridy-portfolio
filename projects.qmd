@@ -1,0 +1,59 @@
+---
+title: "Signature Projects"
+---
+
+Here are highlights of selected academic and technical projects that reflect my experience in data analysis, machine learning, and applied problem-solving. These projects demonstrate my ability to apply analytical tools, computational methods, and structured thinking to real-world challenges across both computer science and business contexts.
+
+---
+
+## Machine Learning Projects
+
+::: {.card-box}
+
+### Personal Information Extraction From Bangla Speech Signal Using MFCC and GMM  
+**BSc Thesis | Machine Learning**
+
+* Developed a machine learning model to extract personal information from Bangla speech signals.
+* Applied **MFCC feature extraction** and **Gaussian Mixture Models (GMM)** for speech analysis.
+* Implemented the system using Python-based machine learning tools.
+
+[View Thesis](https://dspace.bracu.ac.bd:8443/xmlui/bitstream/handle/10361/14744/14101037%2c%2014101033%2c%2014101007_CSE.pdf?sequence=1){target="_blank"}
+
+:::
+
+::: {.card-box}
+
+### Autonomous Grid-Following Robot Using Sensor-Based Navigation  
+**Capstone Project | Robotics**
+
+* Designed a sensor-based robot capable of navigating grid paths autonomously.
+* Implemented obstacle detection and navigation using embedded sensors.
+* Integrated microcontroller-based control for real-time movement decisions.
+
+:::
+
+---
+
+## Analytics Projects
+
+::: {.card-box}
+
+### Cloud-Based Analytics Platform for Global Fisheries Impact Analysis (1950–2018)  
+**MBA Analytics Capstone**
+
+* Built a cloud-based analytics platform to study global fisheries trends and environmental impact.
+* Processed historical fisheries datasets and performed analytical exploration.
+* Applied data transformation and visualization techniques to generate insights.
+
+:::
+
+::: {.card-box}
+
+### AWS Serverless Architecture for a Dynamic Resume Website  
+**Cloud Computing Project**
+
+* Designed and deployed a dynamic portfolio website using serverless architecture.
+* Implemented cloud services including **AWS S3, Lambda, and API Gateway**.
+* Demonstrates practical skills in cloud deployment and scalable web architecture.
+
+:::

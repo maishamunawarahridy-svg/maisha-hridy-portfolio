@@ -1,0 +1,18 @@
+---
+title: "Contact"
+---
+
+I welcome opportunities to connect regarding professional collaboration, academic work, or career opportunities.
+
+::: {.card-box}
+
+📍 **Location**  
+Vancouver, BC, Canada  
+
+📧 **Email**  
+[maishamunawarahridy@gmail.com](mailto:maishamunawarahridy@gmail.com)  
+
+🔗 **LinkedIn**  
+[View LinkedIn Profile](https://www.linkedin.com/in/maisha-munawara-hridy)
+
+:::

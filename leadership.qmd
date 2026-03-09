@@ -1,0 +1,69 @@
+---
+title: "Leadership & Community Involvement"
+---
+
+This page highlights selected leadership roles, mentoring activities, public speaking experience, and community engagement initiatives.
+
+---
+
+## Leadership Experience
+
+::: {.card-box}
+
+### Vice President  
+**Viqarunnisa Noon Debating Club** — Bangladesh
+
+- Coached debaters for national-level debate competitions.
+- Coordinated with event sponsors and organized debate programs.
+- Supported training sessions to improve critical thinking and public speaking skills.
+
+:::
+
+::: {.card-box}
+
+### Director of Human Resources  
+**BRAC University Adventure Club** — Bangladesh
+
+- Led recruitment and onboarding of new members.
+- Managed member engagement, training activities, and internal communication.
+- Supported coordination of club events and team initiatives.
+
+:::
+
+---
+
+## Community Involvement
+
+::: {.card-box}
+
+### Volunteer  
+**Frog Hollow Neighbourhood House** — Vancouver, BC
+
+- Supported community engagement programs and activity facilitation.
+- Assisted with local events and neighborhood participation initiatives.
+
+:::
+
+---
+
+## University Volunteering
+
+::: {.card-box}
+
+### Volunteer – Convocation Support  
+**University Canada West** — Vancouver
+
+- Assisted with crowd management and student coordination during convocation events.
+- Supported event logistics and setup.
+
+:::
+
+::: {.card-box}
+
+### Volunteer – CFA Finance Workshop  
+**University Canada West** — Vancouver
+
+- Assisted with workshop logistics and participant coordination.
+- Supported the organization of professional learning events.
+
+:::
